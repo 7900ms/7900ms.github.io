@@ -25,3 +25,6 @@ If you'd like to give me credit somewhere on your blog or tweet a shout out to [
 
 Warm Regards and Stay Creative,  
 Hossain Mohd. Faysal
+
+ref
+http://allandenot.com/development/2015/01/11/blogging-like-a-dev-jekyll-github-prose-io.html
