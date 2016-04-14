@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Jekyll + Prose.io
 mathjax: false
 featured: true
@@ -12,6 +11,7 @@ tags: jekyll
 description: ""
 modified: ""
 imagefeature: ""
+published: false
 ---
 
 
